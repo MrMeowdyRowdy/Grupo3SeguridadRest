@@ -1,1 +1,5 @@
 com/example/demo/DemoApplication.class
+com/example/demo/DataModel/DataRepo.class
+com/example/demo/DataModel/DataREST.class
+com/example/demo/DataModel/Viajes.class
+com/example/demo/DataModel/Loader.class
